@@ -1,0 +1,23 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/secrets.toml
+*.db
+*.db-shm
+*.db-wal
+*.log
+.tools/
+.verification/
+# 本机凭据与编辑器文件不提交。
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# 原始材料目录已收录全部题目，不重复上传其压缩包。
+/00_作业原始材料.zip

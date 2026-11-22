@@ -1,0 +1,9 @@
+执行时间：2026-11-22T17:52:26+08:00
+
+$ python main.py
+已绘制 6 条指令，结果保存在： C:\Users\king\Desktop\Python作业\.verification\github_packages_20261122_175044\Python-Auto-Trajectory-Drawing\outputs
+
+$ python -m pytest tests -q --tb=short --junitxml=outputs/test_results.xml
+..........                                                               [100%]
+- generated xml file: C:\Users\king\Desktop\Python作业\.verification\github_packages_20261122_175044\Python-Auto-Trajectory-Drawing\outputs\test_results.xml -
+10 passed in 0.12s
